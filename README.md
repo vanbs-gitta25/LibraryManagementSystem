@@ -41,4 +41,4 @@ This is a basic Library Management System built using **ASP.NET Core Web API** a
 
 ```bash
 git clone https://github.com/vanbs-gitta25/LibraryManagementSystem.git
-cd library-management-api
+cd LibraryManagementSystem
